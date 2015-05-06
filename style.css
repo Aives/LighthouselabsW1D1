@@ -1,0 +1,28 @@
+header {
+	padding: 10px 12px 10px 12px;
+}
+body {
+	font-family: Helvetica, Arial, Sans-serif;
+	background-color:#45ECDB;
+}
+p {
+	color:#000000;
+	background-color:#66ccff;
+	border: solid 5px #000000;
+	padding: 10px 10px 10px 10px;
+	width: 800px;
+	text-align: left;
+	margin-left: 100px;
+}
+h1 {
+	text-align: center;
+	font-size: 50px;
+}
+.grump {
+	display: inline;
+	float: left;
+	margin: 15px 100px 15px 100px;
+}
+h4 {
+	margin-left: 100px;
+}
